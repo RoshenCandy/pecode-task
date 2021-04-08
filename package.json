@@ -1,0 +1,15 @@
+{
+  "name": "pecode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.0.0",
+    "cypress-mochawesome-reporter": "^2.0.1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "link": "https://www.pecodesoftware.com/qa-portal/registerlogin/registerlogin.php",
+  "invalidLogin": "login123",
+  "invalidPassword": "pass123",
+  "validLogin": "qwerty123",
+  "validPassword": "asdasd",
+  "enterPassError": "Please enter your password.",
+  "enterUsNameError": "lease enter username.",
+  "notFoundError": "No account found with that username."
+}
